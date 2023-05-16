@@ -1,0 +1,9 @@
+.bandeiras {
+    margin: 0 auto
+}
+
+.bandeiras * {
+    position: absolute;
+    box-sizing: content-box;
+    -moz-box-sizing: content-box
+}
